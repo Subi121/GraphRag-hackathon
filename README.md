@@ -23,7 +23,7 @@ This project compares:
 
 
 ## Deployment link
--
+-Local Streamlit Deployment
 
 ## Run Project
 
