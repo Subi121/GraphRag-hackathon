@@ -18,14 +18,17 @@ This project compares:
 - OpenRouter API
 - TigerGraph GraphRAG
 
+## Demo video
+  -
+
+
+## Deployment link
+-
+
 ## Run Project
 
 ```bash
 python -m streamlit run app.py
 
 
-## Demo viideo
-
-
-## Deployment link
 
