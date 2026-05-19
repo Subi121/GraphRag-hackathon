@@ -19,7 +19,7 @@ This project compares:
 - TigerGraph GraphRAG
 
 ## Demo Video
-- https://drive.google.com/file/d/1W-oHh5ewc_v0n7Lcyx3ShlHu9pgLDJIK/view?usp=sharing
+- https://drive.google.com/file/d/1aUFGlNVb5gL77l6F6J0yZaDQFELD4Auc/view?usp=sharing
 
 ## Screenshots
 - https://drive.google.com/drive/folders/12ct013OKaxH-b-lyuXdztrk5Qj2HB_Bx?usp=sharing
